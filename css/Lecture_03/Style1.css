@@ -1,0 +1,26 @@
+/* /* h2{
+    display: inline;
+    background-color: pink;
+}
+spam{
+    display: block;
+    background-color: greenyellow;
+} */
+ /* spam{
+     background-color: lime; 
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    padding: 50px;
+ /* } */
+  div{ 
+    
+         background-color: lime; 
+         border: 2px solid black;
+        height: 100px;
+        width: 100px;
+        margin: 50px;
+        padding: 50px;
+     
+ }   
